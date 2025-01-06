@@ -24,7 +24,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'com.apoleo88.mobile_scanner'
+    namespace 'com.apoleo88.mobilescanner'
     compileSdkVersion 31
 
     compileOptions {
